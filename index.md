@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my blog, minds on, hands on~
+Author: Chao
 ---
+
